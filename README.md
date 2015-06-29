@@ -1,2 +1,2 @@
-# uwhyperloop
-UW Official Hyperloop Landing Page
+#UWashington Hyperloop
+Welcome to the UW Official Hyperloop Landing Page
